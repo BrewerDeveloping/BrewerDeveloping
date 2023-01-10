@@ -8,7 +8,7 @@
 
 
 - 🔭 I’m currently working on becoming a full fledged dev!
-- 🌱 I’m currently learning through Code Platoons Full Stack Software Engineer
+- 🌱 I’m currently learning through Code Platoons Full Stack Software Engineer Course!
 - 👯 I’m looking to collaborate on any project in which I can contribute and take knowledge from preferably in the gaming realm or QA!
 - 🤔 I’m looking for help with a deeper understanding of Python and Javascript
 - 💬 Ask me about the great outdoors, I probably have a good answer for you!
