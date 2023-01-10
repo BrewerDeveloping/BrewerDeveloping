@@ -1,5 +1,6 @@
 ### Hi there 👋
-[![BrewerDeveloping's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrewerDeveloping)](https://github.com/BrewerDeveloping/github-readme-stats)
+[![BrewerDeveloping's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrewerDeveloping&show_icons=true&theme=radical)](https://github.com/BrewerDeveloping/github-readme-stats)
+
 <!--
 **BrewerDeveloping/BrewerDeveloping** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
