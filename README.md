@@ -1,7 +1,8 @@
 ### Hi there 👋
 [![BrewerDeveloping's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrewerDeveloping&show_icons=true&theme=radical)](https://github.com/BrewerDeveloping/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrewerDeveloping&show_icons=true&theme=radical)](https://github.com/BrewerDeveloping/github-readme-stats)
-
-<!--
+<img align="right" alt="Coding" width="400" src="add your link 
+  here">
+<!
 **BrewerDeveloping/BrewerDeveloping** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+>
