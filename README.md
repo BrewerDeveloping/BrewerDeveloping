@@ -12,6 +12,6 @@
 - 👯 I’m looking to collaborate on any project in which I can contribute and take knowledge from preferably in the gaming realm or QA!
 - 🤔 I’m looking for help with a deeper understanding of Python and Javascript
 - 💬 Ask me about the great outdoors, I probably have a good answer for you!
-- 📫 How to reach me: Here on GitHub or Discord(Brewer#1607)
+- 📫 How to reach me: Twitter or Discord(Brewer#1607)
 - ⚡ Fun fact: Male duckbill platypus's are poisonous
 >
