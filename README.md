@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/brewerdevelop" target="blank"><img src="https://img.shields.io/twitter/follow/brewerdevelop?logo=twitter&style=for-the-badge" alt="brewerdevelop" /></a> </p>
 
-- 🔭 I’m currently working on **becoming a full fledged dev!**
+- 🔭 I’m currently working on **learning new languages**
 
-- 🌱 I’m currently learning **Python, Javascript, Django, CSS, HTML**
+- 🌱 I’m currently learning **React/Django**
 
 - 🤝 I’m looking for help with **any of the listed languages below challenge me!**
 
