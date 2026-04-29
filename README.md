@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Josh!</h1>
-<h3 align="center">IT Project Manager -- Full Stack Software Engineer</h3>
+<h3 align="center">DevOps Engineer -- Full Stack Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brewerdeveloping&label=Profile%20views&color=0e75b6&style=flat" alt="brewerdeveloping" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **learning new languages**
 
-- 🌱 I’m currently learning **The world of IT Project Management**
+- 🌱 I’m currently learning **The world of DevOps/SRE**
 
 - 🤝 I’m looking for help with **any of the listed languages below challenge me!**
 
